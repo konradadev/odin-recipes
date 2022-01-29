@@ -1,0 +1,36 @@
+*{
+    font-family: "DejaVu Sans", sans-serif;
+}
+
+body{
+    background-color: #caccce;
+}
+
+.container{
+    width:910px;
+    margin:auto;
+    padding:0px 10px 10px 10px;
+    background-color: #dfe0e2;
+}
+
+h1,
+h2,
+h3{
+    color:#08090a;
+}
+
+a{
+    color:#da7422;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover{
+    color:#ecb283;
+}
+
+p, .recipe-list{
+    color:#29272a;
+    font-size: 17px;
+    text-align: justify;
+}
