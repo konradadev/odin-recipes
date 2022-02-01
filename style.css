@@ -1,5 +1,6 @@
 *{
     font-family: "DejaVu Sans", sans-serif;
+    box-sizing: border-box;
 }
 
 body{
@@ -7,7 +8,7 @@ body{
 }
 
 .container{
-    width:910px;
+    width: 900px;
     margin:auto;
     padding:0px 10px 10px 10px;
     background-color: #dfe0e2;
